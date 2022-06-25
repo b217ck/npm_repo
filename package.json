@@ -1,0 +1,22 @@
+{
+  "name": "npm_repo",
+  "version": "1.0.0",
+  "description": "node.js+npm+jquery repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b217ck/npm_repo.git"
+  },
+  "author": "b217ck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b217ck/npm_repo/issues"
+  },
+  "homepage": "https://github.com/b217ck/npm_repo#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
